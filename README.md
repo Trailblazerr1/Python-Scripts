@@ -13,4 +13,5 @@ An array of python scripts. <br />
 6.&nbsp;How many people r there in space: <br />
 &nbsp;&nbsp;&nbsp;   Get the number of people currently in space <br />
     <br />
+7. Download wallpapers on ur pc
 Working on more scripts...
