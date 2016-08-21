@@ -10,9 +10,10 @@ An array of python scripts. <br />
 &nbsp;&nbsp;&nbsp;  Arrange all files (i.e. songs, videos,photos) in their respective folders.<br />
 5.&nbsp;t20score: <br />
 &nbsp;&nbsp;&nbsp;    Get score of T20 world-cup by message on your phone <br />
-6.&nbsp;How many people r there in space: <br />
+6.&nbsp;nasaa: <br />
 &nbsp;&nbsp;&nbsp;   Get the number of people currently in space <br />
     
-7.&nbsp; Download wallpapers on ur pc </br>
+7.&nbsp; infinity </br>
+&nbsp;&nbsp;&nbsp;  Download cool wallpapers directly to ur system
 <br />
 Working on more scripts...
