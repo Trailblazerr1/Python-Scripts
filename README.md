@@ -12,6 +12,7 @@ An array of python scripts. <br />
 &nbsp;&nbsp;&nbsp;    Get score of T20 world-cup by message on your phone <br />
 6.&nbsp;How many people r there in space: <br />
 &nbsp;&nbsp;&nbsp;   Get the number of people currently in space <br />
-    <br />
-7. Download wallpapers on ur pc
+    
+7.&nbsp; Download wallpapers on ur pc </br>
+<br />
 Working on more scripts...
