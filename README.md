@@ -16,5 +16,4 @@ An array of python scripts. <br />
 7.&nbsp; infinity </br>
 &nbsp;&nbsp;&nbsp;  Download cool wallpapers directly to ur system
 <br />
-8. &nbsp fun-work  
 Working on more scripts...
